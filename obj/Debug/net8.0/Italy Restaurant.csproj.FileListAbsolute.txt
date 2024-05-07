@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\Italy Restaurant.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\Italy Restaurant.exe
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\Italy Restaurant.deps.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\Italy Restaurant.runtimeconfig.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\Italy Restaurant.dll
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\bin\Debug\net8.0\Italy Restaurant.pdb
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.Italy Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.build.Italy Restaurant.props
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Italy Restaurant.props
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Italy Restaurant.props
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\scopedcss\bundle\Italy Restaurant.styles.css
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\scopedcss\projectbundle\Italy Restaurant.bundle.scp.css
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.dll
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\refint\Italy Restaurant.dll
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.pdb
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\Italy Restaurant.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Italy Restaurant\Italy Restaurant\obj\Debug\net8.0\ref\Italy Restaurant.dll
